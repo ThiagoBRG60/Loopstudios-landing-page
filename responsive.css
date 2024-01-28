@@ -80,13 +80,14 @@
     width: 100%;
   }
   .interactive-text {
-    width: 355px;
+    width: 100%;
+    max-width: 355px;
     padding: 0 0;
-    bottom: -320px;
+    bottom: -330px;
     right: 0px;
   }
   .interactive-text h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
   .creations {
     gap: 40px;
